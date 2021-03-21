@@ -47,4 +47,5 @@ If we represent _ as sea level, a step up as /, and a step down as \, the hike c
 _/\      _
    \    /
     \/\/
+    
 The hiker enters and leaves one valley.
